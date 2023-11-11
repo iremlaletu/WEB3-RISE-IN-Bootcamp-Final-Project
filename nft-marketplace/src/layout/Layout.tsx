@@ -32,6 +32,11 @@ const Layout: React.FC<LayoutProps> = ({ children }) => {
                     title="Market"
                     description="See all valid Listings"
                 />
+                <CardLink
+                    href="/Rent"
+                    title="Rent"
+                    description="See all valid RENTABLE NFT'S"
+                />
             </div>
 
             <div className={styles.center}>

@@ -1,5 +1,7 @@
 # FINAL PROJECT == still working on it
-- This is a decentralized application. Built on the Chiliz Spicy testnet with thirdweb AND Chakra for styling.
+- This is a decentralized application. Built on the Chiliz Spicy testnet with thirdweb
+- The ultimate project centers around the concept of RENTALABLE NFTs. As the NFT owner, you possess the capability to issue and allocate the NFT to a user for a specified duration. You have the flexibility to establish an expiration date, and once that date is reached, the user's access to the NFT will cease. Our framework for this functionality will be based on the ERC-4907 smart contract from Thirdweb/
+
 ## Configuration Process
 - Clone this project and follow these steps to properly configure your environment for the application.
 
@@ -29,3 +31,5 @@ npm install
 ```bash
 npm run dev
 ```
+
+### DEMO
