@@ -33,3 +33,5 @@ npm run dev
 ```
 
 ### DEMO
+
+![demo](img/demonftgif.gif)
